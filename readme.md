@@ -1,6 +1,6 @@
 # About Me
 
-Currently 18 years old and living in Berlin.
+Currently 19 years old and living in Berlin.
 
 My passions are reverse engineering, algebra and basketball.
 
